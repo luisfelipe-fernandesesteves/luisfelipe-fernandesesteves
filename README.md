@@ -1,10 +1,6 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=-6&fontAlignY=70&rotate=0&stroke=-&strokeWidth=0&desc=Luis%20fernandes&descSize=50&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-
-###
-
-<h1 align="center">Luis fernandes</h1>
 
 ###
 
@@ -62,12 +58,8 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=VAMOS%20FAZER%20NETWORK%20!&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=80&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-
-###
-
-<h3 align="center">vamos fazer Network !</h3>
 
 ###
 
