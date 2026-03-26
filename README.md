@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Luis fernandes</h1>
 
-<!--
-**luisfelipe-fernandesesteves/luisfelipe-fernandesesteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="54" alt="java logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="54" alt="python logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="54" alt="git logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="54" alt="php logo"  />
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="54" alt="css logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="54" alt="html5 logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="center">GitHub Stats 📊</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisfelipe-fernandesesteves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=luisfelipe-fernandesesteves&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisfelipe-fernandesesteves/luisfelipe-fernandesesteves/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisfelipe-fernandesesteves/luisfelipe-fernandesesteves/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luisfelipe-fernandesesteves/luisfelipe-fernandesesteves/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h2 align="left">Olá! Eu sou o Luis Felipe 🧑‍💻</h2>
+
+###
+
+<img align="right" height="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1wY3dqd3A4ZnVyanhmZnh0ajk0aWhrcm5uaGFhemFvaGZtOGNvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"  />
+
+###
+
+<p align="left">Sou um estudante de ADS  na FIAP  <br>com experiência prática em diversas linguagens e tecnologias.<br><br>Durante o ensino médio, desenvolvi skills em HTML e CSS além disso técnico em Redes e em manutenção de Hardware também aprendi alguns conceitos em PHP, sigo aprimorando minhas habilidades na área com cursos complementares em outras linguagens. Sou apaixonado por tecnologia, marketing e aprendizado contínuo, sempre buscando expandir meus conhecimentos e aplicá-los em projetos reais. <br><br>estudante da língua inglesa, com experiencias internacionais para melhor aprendizado de nível avançado em busca da fluência <br><br>atualmente sou micro empreendedor digital buscando conhecimento com novas pessoas e em experiencias corporativas para colocar em pratica o que eu sei e oque irei aprender ao decorrer da minha carreira na área da tecnologia <br><br>Tenho facilidade para trabalhar com lógica de programação, trabalho em equipe, resolução de problemas e estou em constante evolução para me tornar um profissional versátil no mercado de TI.</p>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=luisfelipe-fernandesesteves.luisfelipe-fernandesesteves&left_color=darkslategray&right_color=purple&left_text=VISITANTES"  />
+</div>
+
+###
+
+<h3 align="center"></h3>
+
+###
+
+<h3 align="center">vamos fazer Network !</h3>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/luis-felipe-f-b2a3983b3" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="45" alt="linkedin logo"  />
+  </a>
+  <a href="wa.me/5511915589590" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="63" height="45" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/oo.fernandess?igsh=MXJrNDc4bGk4ZjBzMg==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="45" alt="instagram logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="63" height="45" alt="discord logo"  />
+</div>
+
+###
