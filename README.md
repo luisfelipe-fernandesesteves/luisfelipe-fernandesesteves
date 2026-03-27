@@ -5,17 +5,21 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="54" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="54" alt="java logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="54" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="54" alt="javascript logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="54" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="54" alt="html5 logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="54" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="54" alt="css logo"  />
   <img width="11" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="54" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="54" alt="php logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="54" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="54" alt="git logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=py" height="54" alt="python logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="54" alt="mysql logo"  />
 </div>
 
 ###
@@ -25,9 +29,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisfelipe-fernandesesteves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=luisfelipe-fernandesesteves&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<p align="center"></p>
 
 ###
 
@@ -39,17 +46,31 @@
 
 ###
 
+<p align="center"></p>
+
+###
+
 <h2 align="left">Olá! Eu sou o Luis Felipe 🧑‍💻</h2>
 
 ###
 
-<img align="right" height="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1wY3dqd3A4ZnVyanhmZnh0ajk0aWhrcm5uaGFhemFvaGZtOGNvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"  />
+<img align="right" height="480" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1wY3dqd3A4ZnVyanhmZnh0ajk0aWhrcm5uaGFhemFvaGZtOGNvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"  />
 
 ###
 
 <p align="left">Sou um estudante de ADS  na FIAP  <br>com experiência prática em diversas linguagens e tecnologias.<br><br>Durante o ensino médio, desenvolvi skills em HTML e CSS além disso técnico em Redes e em manutenção de Hardware também aprendi alguns conceitos em PHP, sigo aprimorando minhas habilidades na área com cursos complementares em outras linguagens. Sou apaixonado por tecnologia, marketing e aprendizado contínuo, sempre buscando expandir meus conhecimentos e aplicá-los em projetos reais. <br><br>estudante da língua inglesa, com experiencias internacionais para melhor aprendizado de nível avançado em busca da fluência <br><br>atualmente sou micro empreendedor digital buscando conhecimento com novas pessoas e em experiencias corporativas para colocar em pratica o que eu sei e oque irei aprender ao decorrer da minha carreira na área da tecnologia <br><br>Tenho facilidade para trabalhar com lógica de programação, trabalho em equipe, resolução de problemas e estou em constante evolução para me tornar um profissional versátil no mercado de TI.</p>
 
 ###
+
+<p align="center"></p>
+
+###
+
+<p align="center"></p>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=luisfelipe-fernandesesteves.luisfelipe-fernandesesteves&left_color=darkslategray&right_color=purple&left_text=VISITANTES"  />
