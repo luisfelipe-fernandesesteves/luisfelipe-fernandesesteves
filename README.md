@@ -31,7 +31,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfelipe-fernandesesteves&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2&custom_title=Linguagens%20mais%20usadas:" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfelipe-fernandesesteves&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2&custom_title=Linguagens%20mais%20usadas:" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=luisfelipe-fernandesesteves&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=22&order=3" height="150" alt="streak graph"  />
 </div>
 
@@ -87,6 +87,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="www.linkedin.com/in/luis-felipe-f-b2a3983b3" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="45" alt="linkedin logo"  />
@@ -104,9 +106,6 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###ule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
