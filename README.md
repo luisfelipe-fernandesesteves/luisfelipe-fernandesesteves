@@ -31,8 +31,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfelipe-fernandesesteves&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2&custom_title=Linguagens%20mais%20usadas:" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=luisfelipe-fernandesesteves&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=22&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfelipe-fernandesesteves&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=dark&border_radius=30&order=22&hide_border=false&order=2&custom_title=Linguagens%20mais%20usadas:" height="200" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=luisfelipe-fernandesesteves&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=30&order=22" height="150" alt="streak graph"  />
 </div>
 
 ###
