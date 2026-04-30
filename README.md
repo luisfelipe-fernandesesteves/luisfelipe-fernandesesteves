@@ -30,10 +30,19 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfelipe-fernandesesteves&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=dark&border_radius=30&order=22&hide_border=false&order=2&custom_title=Linguagens%20mais%20usadas:" height="200" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=luisfelipe-fernandesesteves&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=30&order=22" height="150" alt="streak graph"  />
-</div>
+<p align="center">
+  <a href="https://github.com/luisfelipe-fernandesesteves">
+    <picture>
+      <img height="150px" src="https://beautiful-github-homepage.vercel.app/api?username=luisfelipe-fernandesesteves&hide_title=true&show_icons=true&theme=midnight-purple&include_all_commits=true" />
+    </picture>
+  </a>
+
+  <a href="https://github.com/luisfelipe-fernandesesteves">
+    <picture>
+      <img height="150px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=luisfelipe-fernandesesteves&layout=compact&theme=midnight-purple&count_private=true" />
+    </picture>
+  </a>
+</p>
 
 ###
 
