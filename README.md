@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=LUIS%20FELIPE&fontSize=47&fontColor=FFFFFF&fontAlign=50&fontAlignY=61&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&desc=Fernandes%20Esteves&descSize=18&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=LUIS%20FELIPE&fontSize=47&fontColor=FFFFFF&fontAlign=50&fontAlignY=61&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&desc=Fernandes%20Esteves&descSize=18&descAlign=50&descAlignY=85&textBg=false&color=#6C2BD9"  />
 </div>
 
 ###
