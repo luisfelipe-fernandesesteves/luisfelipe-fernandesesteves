@@ -31,6 +31,10 @@
 <br clear="both">
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfelipe-fernandesesteves&theme=midnight-purple" />
+</p>
+
+<p align="center">
   <a href="https://github.com/luisfelipe-fernandesesteves">
     <picture>
       <img height="150px" src="https://beautiful-github-homepage.vercel.app/api?username=luisfelipe-fernandesesteves&hide_title=true&show_icons=true&theme=midnight-purple&include_all_commits=true" />
