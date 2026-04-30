@@ -88,11 +88,15 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=luisfelipe-fernandesesteves.luisfelipe-fernandesesteves&left_color=darkslategray&right_color=purple&left_text=VISITANTES"  />
-</div>
+<p align="center">
 
-###
+<img src="https://komarev.com/ghpvc/?username=luisfelipe-fernandesesteves&style=for-the-badge&color=7C3AED&label=VISITORS"/>
+
+<img src="https://img.shields.io/github/followers/luisfelipe-fernandesesteves?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=7C3AED&label=FOLLOWERS"/>
+
+<img src="https://img.shields.io/github/stars/luisfelipe-fernandesesteves?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=7C3AED&label=STARS"/>
+
+</p>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=VAMOS%20FAZER%20NETWORK%20!&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=80&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=#6C2BD9"  />
@@ -102,16 +106,25 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7C3AED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7C3AED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=7C3AED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=7C3AED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</div>
+<p align="center">
 
+<a href="https://instagram.com/SEUUSUARIO">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=7C3AED&labelColor=000000"/>
+</a>
+
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=7C3AED&labelColor=000000"/>
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=7C3AED&labelColor=000000"/>
+</a>
+
+<a href="https://linkedin.com/in/SEUPERFIL">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=7C3AED&labelColor=000000"/>
+</a>
+
+</p>
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#6C2BD9"  />
 </div>
