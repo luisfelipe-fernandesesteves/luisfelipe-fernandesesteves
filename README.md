@@ -78,6 +78,10 @@
 
 ###
 
+<h2> Técnologias: </h2>
+
+###
+
 <p align="center"></p>
 
 ###
