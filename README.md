@@ -50,7 +50,23 @@
 
 ###
 
-<p align="center"></p>
+<h2 align="center">📂 Meus Repositórios</h2>
+
+<p align="center">Escolha uma tecnologia para explorar meus projetos</p>
+
+<p align="center">
+  <a href="https://github.com/luisfelipe-fernandesesteves?tab=repositories&language=python">
+    <img src="https://img.shields.io/badge/Python-Projetos-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://github.com/luisfelipe-fernandesesteves?tab=repositories&language=java">
+    <img src="https://img.shields.io/badge/Java-Projetos-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  </a>
+  <a href="https://github.com/luisfelipe-fernandesesteves?tab=repositories&q=language:javascript+language:html+language:css">
+    <img src="https://img.shields.io/badge/Frontend-JS%20%7C%20HTML%20%7C%20CSS-7A00FF?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+</p>
+
+<br>
 
 ###
 
@@ -76,9 +92,7 @@
 
 <p align="left">Sou um estudante de ADS  na FIAP  <br>com experiência prática em diversas linguagens e tecnologias.<br><br>Durante o ensino médio, desenvolvi skills em HTML e CSS além disso técnico em Redes e em manutenção de Hardware também aprendi alguns conceitos em PHP, sigo aprimorando minhas habilidades na área com cursos complementares em outras linguagens. Sou apaixonado por tecnologia, marketing e aprendizado contínuo, sempre buscando expandir meus conhecimentos e aplicá-los em projetos reais. <br><br>estudante da língua inglesa, com experiencias internacionais para melhor aprendizado de nível avançado em busca da fluência <br><br>atualmente sou micro empreendedor digital buscando conhecimento com novas pessoas e em experiencias corporativas para colocar em pratica o que eu sei e oque irei aprender ao decorrer da minha carreira na área da tecnologia <br><br>Tenho facilidade para trabalhar com lógica de programação, trabalho em equipe, resolução de problemas e estou em constante evolução para me tornar um profissional versátil no mercado de TI.</p>
 
-###
-
-###
+<br>
 
 <h2 align="center">Tecnologias e linguagens 💻</h2>
 
@@ -124,9 +138,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
-###
-
-###
+<br>
 
 <p align="center"></p>
 
