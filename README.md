@@ -182,7 +182,7 @@
 <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=7C3AED&labelColor=000000"/>
 </a>
 
-<a href="https://linkedin.com/in/SEUPERFI](https://www.linkedin.com/in/luis-felipe-f-b2a3983b3">
+<a href="https://www.linkedin.com/in/luis-felipe-f-b2a3983b3">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=7C3AED&labelColor=000000"/>
 </a>
 
