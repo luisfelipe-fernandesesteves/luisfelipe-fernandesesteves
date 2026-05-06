@@ -174,11 +174,11 @@
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=7C3AED&labelColor=000000"/>
 </a>
 
-<a href="https://discord.com">
+<a href="https://discord.com/@ddsptt.y">
 <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=7C3AED&labelColor=000000"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:luisfelipefernandes.corp@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=7C3AED&labelColor=000000"/>
 </a>
 
